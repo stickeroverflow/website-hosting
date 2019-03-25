@@ -3,11 +3,11 @@
   <title>StickerOverflow</title>
   
   <subtitle>为创意工作者提供高质量贴纸</subtitle>
-  <link href="/stickeroverflow/rss.xml" rel="self"/>
+  <link href="/rss.xml" rel="self"/>
   
-  <link href="http://stickeroverflow.netlify.com/"/>
+  <link href="http://stickeroverflow.xyz/"/>
   <updated>2019-03-25T05:23:17.571Z</updated>
-  <id>http://stickeroverflow.netlify.com/</id>
+  <id>http://stickeroverflow.xyz/</id>
   
   <author>
     <name>Randy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>店铺迁移公告</title>
-    <link href="http://stickeroverflow.netlify.com/blog/new-weidian/"/>
-    <id>http://stickeroverflow.netlify.com/blog/new-weidian/</id>
+    <link href="http://stickeroverflow.xyz/blog/new-weidian/"/>
+    <id>http://stickeroverflow.xyz/blog/new-weidian/</id>
     <published>2019-03-25T04:57:59.000Z</published>
     <updated>2019-03-25T05:23:17.571Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Vue 捐赠计划</title>
-    <link href="http://stickeroverflow.netlify.com/blog/vue-donation/"/>
-    <id>http://stickeroverflow.netlify.com/blog/vue-donation/</id>
+    <link href="http://stickeroverflow.xyz/blog/vue-donation/"/>
+    <id>http://stickeroverflow.xyz/blog/vue-donation/</id>
     <published>2017-10-16T16:52:57.000Z</published>
     <updated>2019-03-25T04:54:40.505Z</updated>
     
