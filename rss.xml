@@ -6,7 +6,7 @@
   <link href="/rss.xml" rel="self"/>
   
   <link href="http://stickeroverflow.xyz/"/>
-  <updated>2019-03-25T05:23:17.571Z</updated>
+  <updated>2019-03-28T07:50:35.714Z</updated>
   <id>http://stickeroverflow.xyz/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>3 月新贴纸</title>
+    <link href="http://stickeroverflow.xyz/blog/2019-03-new-sticker/"/>
+    <id>http://stickeroverflow.xyz/blog/2019-03-new-sticker/</id>
+    <published>2019-03-28T07:45:35.000Z</published>
+    <updated>2019-03-28T07:50:35.714Z</updated>
+    
+    <content type="html"><![CDATA[<p>本月新增了几款贴纸：</p><ul><li>GraphQL</li><li>Bash</li><li>Firefox</li><li>Vim</li><li>新款 VS Code</li></ul><p><img src="https://ws4.sinaimg.cn/large/006tKfTcly1g1ik1sfm3lj30u00u0e83.jpg" alt></p><p><img src="https://ws1.sinaimg.cn/large/006tKfTcly1g1ik22tkfej30u00u0qv6.jpg" alt></p><p>现在进入<a href="https://weidian.com/s/1277943082" target="_blank" rel="noopener">微店</a>即可购买。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本月新增了几款贴纸：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GraphQL&lt;/li&gt;
+&lt;li&gt;Bash&lt;/li&gt;
+&lt;li&gt;Firefox&lt;/li&gt;
+&lt;li&gt;Vim&lt;/li&gt;
+&lt;li&gt;新款 VS Code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://ws4.sinai
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>店铺迁移公告</title>
